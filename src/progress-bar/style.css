@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: block;
+  border: 1px solid black;
+  width: 500px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+
+.bar {
+  background-color: blue;
+  height: 29px;
+  width: 0%;
+}
